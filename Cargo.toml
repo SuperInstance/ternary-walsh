@@ -1,0 +1,9 @@
+[package]
+name = "ternary-walsh"
+version = "0.1.0"
+edition = "2021"
+description = "Walsh functions and transforms for ternary-valued signal analysis"
+license = "MIT"
+repository = "https://github.com/SuperInstance/ternary-walsh"
+
+[dependencies]
